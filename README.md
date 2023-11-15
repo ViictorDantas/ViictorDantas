@@ -1,6 +1,6 @@
 ### Opa! Eu sou João Victor
 
-- 🌱 Atualmente estudando Java
+- 🌱 Atualmente estudando JavaScript e Django
 - 📚 Cursando ADS 3/5
 - 📫 Como chegar até mim: Viictordantaz@gmail.com
 
