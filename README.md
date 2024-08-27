@@ -2,7 +2,7 @@
 
 
   - 🌱 Atualmente estudando JavaScript e Django
-  - 📚 Cursando ADS 3/5
+  - 📚 Cursando ADS 5/5
 
 
 <div align="center">
