@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5FD3DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor;Tenho+22+anos;Sou+Brasileiro;Atualmente+estudo+ADS;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 
-  - 🌱 Atualmente estudando JavaScript e Django
-  - 📚 Cursando ADS 5/5
+  - 🌱 Atualmente estudando JavaScript, TypeScript e Django
+  - 📚 Formado em Análise e Desenvolvimento de Sistemas (ADS)
 
 
 <div align="center">
