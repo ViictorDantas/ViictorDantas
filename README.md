@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5FD3DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor;Tenho+22+anos;Sou+Brasileiro;Atualmente+estudo+ADS;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
-
+  - 👷 Desenvolvedor Front-End Júnior em: UNIFIP - Centro Universitário
   - 🌱 Atualmente estudando JavaScript, TypeScript e Django
-  - 📚 Formado em Análise e Desenvolvimento de Sistemas (ADS)
-
+  - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+  - 📚 Estudando Desenvolvimento Web (Front/Back)
+  - 🎨 Experiência com Design Gráfico
+  - 🧿 23 Anos
 
 <div align="center">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Viictordantas&show_icons=true&theme=transparent"/>
