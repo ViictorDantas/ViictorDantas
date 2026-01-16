@@ -1,48 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5FD3DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor;Tenho+22+anos;Sou+Brasileiro;Atualmente+estudo+ADS;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
+# 👨🏻‍💻 João Victor Medeiros
 
-  - 👷 Desenvolvedor Front-End Júnior em: UNIFIP - Centro Universitário
-  - 🌱 Atualmente estudando JavaScript, TypeScript e Django
-  - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-  - 📚 Estudando Desenvolvimento Web (Front/Back)
-  - 🎨 Experiência com Design Gráfico
-  - 🧿 23 Anos
+**Desenvolvedor Front-End**
 
-<div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Viictordantas&show_icons=true&theme=transparent"/
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictorDantas&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
-</div>
+Olá! Me chamo **João Victor Medeiros**, sou brasileiro e formado em **Análise e Desenvolvimento de Sistemas**.  
+Atualmente atuo como **Desenvolvedor Front-End Júnior**, com foco na criação de interfaces modernas, responsivas e acessíveis.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viictordantas&hide=contribs,prs)
+Nos últimos tempos, tenho concentrado meus estudos e projetos em **React**, **Next.js** e **Tailwind CSS**, buscando sempre boas práticas, performance e uma ótima experiência do usuário.  
+Também possuo experiência com backend e **design gráfico**, o que contribui para uma visão mais completa dos projetos.
 
-<div align="center"> 
-<h4> 📫 Como chegar até mim:</h4>
-<a href="https://www.instagram.com/viictordantaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:viictordantaz@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-m-287758275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-  
-### Conhecimentos:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+---
+<p align="left"> <a href="https://github.com/ViictorDantas?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ViictorDantas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> <a href="https://github.com/ViictorDantas?tab=repositories&sort=stargazers"> <img alt="Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ViictorDantas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" /> </a> </p>
+
+## 🚀 Tecnologias em foco (atualmente)
+
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+## 🧠 Conhecimentos
+
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img align="left" alt="Selenium" title="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Django Rest Framework" title="Django Rest Framework" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+
+<br/>
+<br/>
+
+---
+
+## 🎨 Designer
+
+<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Photoshop" title="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="left" alt="Premiere Pro" title="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 
 
-
-### Estudando:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+<br/>
+<br/>
 
 
+<br/>
+<br/>
 
 
-### Designer:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
-![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)&nbsp;
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)&nbsp;
+---
+## 📫 Onde me encontrar
+<p align="left"> <a href="mailto:viictordantaz@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-m-287758275/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/viictordantaz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
