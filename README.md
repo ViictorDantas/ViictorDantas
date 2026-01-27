@@ -54,7 +54,7 @@ Também possuo experiência com backend e **design gráfico**, o que contribui p
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ViictorDantas&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ViictorDantas&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 <br/>
 <br/>
